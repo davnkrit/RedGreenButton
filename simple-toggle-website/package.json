@@ -1,0 +1,21 @@
+{
+  "name": "simple-toggle-website",
+  "version": "1.0.0",
+  "description": "A simple website that toggles background color between blue and green.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "live-server public"
+  },
+  "keywords": [
+    "toggle",
+    "background",
+    "color",
+    "website"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
